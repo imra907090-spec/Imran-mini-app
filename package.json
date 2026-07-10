@@ -1,0 +1,13 @@
+{
+  "name": "secure-surf-zone-x-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for Secure Surf Zone X — opens Mini App for users, restricted Admin Panel for admins only",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
